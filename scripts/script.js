@@ -1,5 +1,5 @@
 // base domain for image layers
-var baseURL = 'http://localhost:8000/images/mfers/';
+var baseURL = 'https://coolwave.art/mfer-builder/images/mfers/';
 
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
